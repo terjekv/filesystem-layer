@@ -1,0 +1,5 @@
+[eessi]
+name=EESSI configuration and package support
+baseurl=http://repo.eessi-infra.org/eessi/rhel/$releasever/noarch
+enabled=1
+gpgcheck=0
